@@ -1,6 +1,2 @@
-====== Start ======
+====== Eingang ======
 
-  * [[sidebar|Seitenleiste]]
-  * [[Übersicht|Übersicht]]
-
-Ich ändere mal was, damit ich was testen kann.
