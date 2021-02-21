@@ -1,8 +1,8 @@
 ====== Wesen ======
 
-  * Bollogg
-  * Denkender Treibsand
-  * Die "Moloch" <todo>Wesen oder was anderes?</todo>
-  * <todo>Kulinarische Insel, siehe Orte?</todo>
-  * Tratschwellen
-  * Zwergpiraten
+  * [[Bollogg|Bollogg]]
+  * [[Denkender Treibsand|Denkender Treibsand]]
+  * [[Die Moloch|Die Moloch]]
+  * [[Kulinarische Insel|Kulinarische Insel]]
+  * [[Tratschwelle|Tratschwelle]]
+  * [[Zwergpirat|Zwergpirat]]
